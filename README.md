@@ -1,7 +1,7 @@
 russian_traslation_symphony
 ===========================
 
-Русский перевод для CMS Symphony 2.3 [Symphony](http://www.symphony-cms.com) на русский язык.
+Перевод для CMS Symphony 2.3 [Symphony](http://www.symphony-cms.com) на русский язык.
 
 ## Автор
 
