@@ -460,7 +460,7 @@
 		'Для переадресации по новому адресу после успешного сохранения включите в форму ссылку на место переадресации. Лучше все это сделать при помощи скрытого поля, например таким образом, указав в качестве value URL:',
 
 		'Upon the event successfully saving the entry, this option takes input from the form and send an email to the desired recipient.' => 
-		false,
+		'В случае успешного сохранения записи, данная опция позволит получить данные из формы и отправить их на почту заданному получателю.',
 
 		'It currently does not work with ‘Allow Multiple’' => 
 		'Работа с ‘Allow Multiple’ пока невозможна',
@@ -892,16 +892,16 @@
 		'Детали',
 
 		'Leave password fields blank to keep the current password' => 
-		'Оставьте поля для пароля пустыми, чтобы сохранить текущий пароль',
+		'Оставьте поля пустыми, чтобы сохранить текущий пароль',
 
 		'Old Password' => 
-		'Старный пароль',
+		'Старый пароль',
 
 		'New Password' => 
 		'Новый пароль',
 
 		'Confirm Password' => 
-		'Подтвердить пароль',
+		'Подтвердите пароль',
 
 		'%s Allow remote login via' => 
 		'%s Разрешить удаленный вход через',
@@ -1234,10 +1234,10 @@
 		'Не удалось удалить файл - %s',
 
 		'Enforced type `%1$s` for argument `$%2$s` does not match any known variable types.' => 
-		false,
+		'Указаный тип `%1$s` для аргумента `$%2$s` не совпадает ни с одним известным типом данных.',
 
 		'Argument `$%1$s` is not of type `%2$s`, given `%3$s`.' => 
-		false,
+		'Аргумент `$%1$s` имеет тип отличный от `%2$s`, укажите `%3$s`.',
 
 		'No errors.' => 
 		'Ошибок нет.',
@@ -1567,7 +1567,7 @@
 		'Показать строку %d в окне отлидчика',
 
 		'Blueprints' => 
-		'Blueprints',
+		'Структура',
 
 		'yesterday' => 
 		'вчера',
@@ -1714,7 +1714,7 @@
 		'неделя',
 
 		'forthnight' => 
-		false,
+		'недель',
 
 		'month' => 
 		'месяц',
@@ -1741,10 +1741,10 @@
 		'дней',
 
 		'fortnights' => 
-		'недель',
+		'2-х недель',
 
 		'forthnights' => 
-		false,
+		'вчера',
 
 		'months' => 
 		'месяцев',
