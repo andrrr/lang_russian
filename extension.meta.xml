@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<extension id="russian_traslation_symphony" status="released" xmlns="http://symphony-cms.com/schemas/extension/1.0">
+<extension id="lang_russian" status="released" xmlns="http://symphony-cms.com/schemas/extension/1.0">
 	<name>Language: Russian</name>
 	<description>Russian translation for Symphony</description>
-	<repo type="github">https://github.com/alexbirukov/russian_traslation_symphony</repo>
+	<repo type="github">https://github.com/alexbirukov/lang_russian</repo>
 	<url type="discuss">http://getsymphony.com/discuss/thread/88994/</url>
 	<types>
 		<type>Translations</type>
